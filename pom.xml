@@ -38,7 +38,7 @@
                         <configuration>
                             <failOnError>false</failOnError>
                             <doclint>none</doclint>
-                            <javadocExecutable>C:\Program Files\Java\jdk1.8.0\bin\javadoc.exe</javadocExecutable>
+                            <javadocExecutable>C:\Program Files\Java\jdk21\bin\javadoc.exe</javadocExecutable>
                         </configuration>
                     </execution>
                 </executions>
